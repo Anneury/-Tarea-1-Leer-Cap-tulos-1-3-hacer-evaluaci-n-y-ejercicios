@@ -1,0 +1,12 @@
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\Anneury\Desktop\Lab de Aplicada I\Tarea 1\Capitulo1\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache
